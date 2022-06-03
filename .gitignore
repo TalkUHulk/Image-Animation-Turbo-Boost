@@ -1,0 +1,4 @@
+/TPSMM/demo/ONNXRuntime/cpp/build/
+*.onnx
+*.trt
+*.pyc

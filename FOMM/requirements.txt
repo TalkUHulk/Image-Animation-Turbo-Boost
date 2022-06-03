@@ -1,0 +1,16 @@
+imageio==2.9.0
+scipy==1.2.1
+torchvision==0.10.0
+numpy==1.18.5
+onnx_simplifier==0.3.6
+scikit_image==0.17.2
+torch==1.9.0
+requests==2.23.0
+opencv_python_headless==4.5.2.54
+Flask==1.1.2
+ujson==4.0.2
+onnx==1.10.1
+loguru==0.6.0
+pycuda==2021.1
+PyYAML==6.0
+skimage==0.0

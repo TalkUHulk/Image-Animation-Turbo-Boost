@@ -1,0 +1,13 @@
+torchvision==0.10.0
+torch==1.9.0
+onnx==1.10.1
+openvino==2021.4.0
+opencv_python_headless==4.5.2.54
+tqdm==4.55.0
+onnxruntime==1.9.0
+scikit_image==0.17.2
+numpy==1.18.5
+loguru==0.6.0
+onnx_simplifier==0.3.6
+PyYAML==6.0
+skimage==0.0

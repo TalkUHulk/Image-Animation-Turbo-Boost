@@ -137,7 +137,9 @@ Please download the pre-trained models from the following links.
 # Acknowledgments
 
 FOMM is [AliaksandrSiarohin](https://github.com/AliaksandrSiarohin/first-order-model)'s work.
+
 TPSMM is [yoyo-nb](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)'s work.
+
 Thanks for the excellent works!
 
 My work is to modify part of the network，and enable the model can be converted to onnx、openvino or tensorrt.
