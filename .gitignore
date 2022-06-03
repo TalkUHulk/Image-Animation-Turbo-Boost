@@ -2,3 +2,5 @@
 *.onnx
 *.trt
 *.pyc
+*.so
+*.dylib
