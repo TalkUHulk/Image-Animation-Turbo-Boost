@@ -115,7 +115,7 @@ make -j8
 
 |  FrameWork   | Elapsed(s)  | Language |
 |  ----  | ----  | ----  |
-| pytorch  | 6 | python |
+| pytorch(cpu)  | 6 | python |
 | ONNXRuntime  | ~1.2 | python |
 | ONNXRuntime  | ~1.6 | c++ |
 | OpenVINO  | ~0.6 | python |
