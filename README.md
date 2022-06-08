@@ -45,7 +45,7 @@ onnx2trt fomm.onnx -o fomm.trt
 
 ### Demo
 
-* [Python Demo](./FOMM/demo/TRT)
+* [Python Demo](https://github.com/TalkUHulk/Image-Animation-Turbo-Boost/tree/main/FOMM/demo/TRT)
 
 ****
 
@@ -73,8 +73,9 @@ python3 mo.py --input_model ./tpsmm.onnx  --output_dir ./openvino --data_type FP
 
 #### ONNXRuntime
 
-* [Python Demo](./TPSMM/demo/ONNXRuntime/python)
-* [C++ Demo](./FOMM/demo/ONNXRuntime/cpp)
+* [Python Demo](https://github.com/TalkUHulk/Image-Animation-Turbo-Boost/tree/main/TPSMM/demo/ONNXRuntime/python)
+* [C++ Demo](https://github.com/TalkUHulk/Image-Animation-Turbo-Boost/tree/main/TPSMM/demo/ONNXRuntime/cpp)
+
 
 To test python demo run:
 ```
@@ -93,8 +94,8 @@ make -j8
 
 #### OpenVINO
 
-* [Python Demo](./TPSMM/demo/OpenVINO/python)
-* [C++ Demo](./FOMM/demo/OpenVINO/cpp)
+* [Python Demo](https://github.com/TalkUHulk/Image-Animation-Turbo-Boost/tree/main/TPSMM/demo/OpenVINO/python)
+* [C++ Demo](https://github.com/TalkUHulk/Image-Animation-Turbo-Boost/tree/main/TPSMM/demo/OpenVINO/cpp)
 
 To test python demo run:
 ```
