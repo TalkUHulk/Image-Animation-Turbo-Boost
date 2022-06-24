@@ -9,17 +9,6 @@
 
 Aim to accelerate the image-animation-model inference through the inference frameworks such as onnx、tensorrt and openvino.
 
-
-<p align="center">
-<img src="images/fomm.gif" width="640px"/>
-<br>
-FOMM Demo.</p>
-
-<p align="center">
-<img src="images/tpsmm.gif" width="640px"/>
-<br>
-TPSMM Demo.</p>
-
 ****
 
 ## FOMM
