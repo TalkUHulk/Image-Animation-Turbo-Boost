@@ -11,6 +11,12 @@ Aim to accelerate the image-animation-model inference through the inference fram
 
 ****
 
+
+
+https://github.com/TalkUHulk/Image-Animation-Turbo-Boost/assets/18474163/a6cbb56c-10b3-4328-b9ce-ccece2e92aad
+
+
+
 ## FOMM
 
 The model using from [FOMM](https://github.com/AliaksandrSiarohin/first-order-model)
