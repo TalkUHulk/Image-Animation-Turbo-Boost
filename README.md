@@ -17,6 +17,10 @@ https://github.com/TalkUHulk/Image-Animation-Turbo-Boost/assets/18474163/a6cbb56
 
 
 
+https://github.com/TalkUHulk/Image-Animation-Turbo-Boost/assets/18474163/49ddfd0c-1f4d-4837-914e-4f1efaed1e92
+
+
+
 ## FOMM
 
 The model using from [FOMM](https://github.com/AliaksandrSiarohin/first-order-model)
